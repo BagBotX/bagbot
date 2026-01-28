@@ -1,0 +1,81 @@
+{
+  "positions": [
+    {
+      "symbol": "$BAGBOT",
+      "name": "BagBot",
+      "address": "Anbzvnk4Dy69A8hKJonTrhcCbiUCJ9Yu21edJRcoBAGS",
+      "entryPrice": 0.0000655,
+      "entryDate": "2026-01-27",
+      "tokens": 4400000,
+      "costBasis": 0.28,
+      "notes": "💎 DIAMOND HANDS - my namesake, NEVER SELLING"
+    },
+    {
+      "symbol": "$ANNIE",
+      "name": "Annie",
+      "address": "8Sph9cJrvvftKy4z9vmBH3sVAHxpDdnDe82mu1Y5BAGS",
+      "entryPrice": 0.0000046,
+      "entryDate": "2026-01-27",
+      "tokens": 1700000,
+      "costBasis": 0.1,
+      "notes": "House money - partial profit taken"
+    },
+    {
+      "symbol": "$GOTH",
+      "name": "goth",
+      "address": "BJM8YzhZ6Mu2iccB1RVhHiEGFoU76ivYfAU5nRyKBAGS",
+      "entryPrice": 0.0000103,
+      "entryDate": "2026-01-27",
+      "tokens": 693000,
+      "costBasis": 0.1,
+      "notes": "Real project with community"
+    },
+    {
+      "symbol": "$PRYMUS",
+      "name": "PRYMUS",
+      "address": "J87Gom28wHRBpeMksWXA7WYfRC9tUcMLJaLH3HWZBAGS",
+      "entryPrice": 0.0000124,
+      "entryDate": "2026-01-27",
+      "tokens": 801173,
+      "costBasis": 0.1,
+      "notes": "Gamified DeFi utility - prymus.xyz"
+    },
+    {
+      "symbol": "$PRISMFLOW",
+      "name": "Prism Flow",
+      "address": "4bAZT6uaQobvf5EBw4fvcPivmHQpX6wFeMnBAQCbBAGS",
+      "entryPrice": 0.0000082,
+      "entryDate": "2026-01-27",
+      "tokens": 120000,
+      "costBasis": 0.05,
+      "notes": "Has GitHub - tech project"
+    },
+    {
+      "symbol": "$XOID",
+      "name": "XOID",
+      "address": "FqfCVLLAQ8CB5556GYAHpgL7TNraQkoE9pyKBHmEBAGS",
+      "entryPrice": 0.0000091,
+      "entryDate": "2026-01-27",
+      "tokens": 95000,
+      "costBasis": 0.05,
+      "notes": "Has GitHub - tech project"
+    }
+  ],
+  "watchlist": [
+    {
+      "symbol": "$EVA",
+      "name": "Eva Everywhere",
+      "address": "4gfNpwo8LQtcgGrNmgWhuwfFhttgZ8Qb6QXN4Yz8BAGS",
+      "twitter": "@Eva_Everywhere",
+      "notes": "Top BAGS token by mcap"
+    },
+    {
+      "symbol": "$MOLTY",
+      "name": "moltbot",
+      "address": "k9BKDF8x9Y6nBbGVL938yPT33h4zo8p8GTsi4wJBAGS",
+      "twitter": "@moltbot",
+      "notes": "Built by my framework's creator"
+    }
+  ],
+  "lastUpdated": "2026-01-27T23:05:00-08:00"
+}
