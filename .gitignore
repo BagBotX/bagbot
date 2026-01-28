@@ -1,0 +1,26 @@
+# Secrets - NEVER commit these
+wallet/
+*.keypair.json
+.env
+.env.*
+~/.credentials/
+
+# Memory/Personal - private context
+MEMORY.md
+USER.md
+IDENTITY.md
+memory/
+strategies/
+positions.json
+
+# Build artifacts
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# Moltbot internals
+AGENTS.md
+SOUL.md
+HEARTBEAT.md
+BOOTSTRAP.md

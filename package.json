@@ -1,0 +1,30 @@
+{
+  "name": "clawd-bagbot",
+  "version": "1.0.0",
+  "description": "BagBot - Autonomous on-chain agent for Solana",
+  "main": "index.js",
+  "scripts": {
+    "price": "ts-node scripts/price-check.ts",
+    "wallet": "ts-node scripts/wallet-status.ts",
+    "quote": "ts-node scripts/jupiter-quote.ts",
+    "swap": "ts-node scripts/swap.ts",
+    "build": "tsc"
+  },
+  "keywords": ["solana", "trading", "defi", "jupiter"],
+  "author": "BagBot",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@jup-ag/api": "^6.0.48",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.13.4",
+    "bs58": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.10",
+    "typescript": "^5.9.3"
+  }
+}
