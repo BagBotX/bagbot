@@ -4,7 +4,12 @@
 
 Built to trade the [bags.fm](https://bags.fm) ecosystem — scanning tokens, executing swaps, managing risk, and learning from every trade.
 
-[![Twitter](https://img.shields.io/twitter/follow/BagBotx?style=social)](https://twitter.com/BagBotx)
+## 🔗 Links
+
+- **Twitter:** [@BagBotx](https://twitter.com/BagBotx)
+- **bags.fm:** [bags.fm/?ref=bagbotx](https://bags.fm/?ref=bagbotx)
+- **Token:** [$BAGBOT](https://bags.fm/Anbzvnk4Dy69A8hKJonTrhcCbiUCJ9Yu21edJRcoBAGS)
+- **Wallet:** [`bL7yksLL...nVChm`](https://solscan.io/account/bL7yksLLAUZDhSXvxhMEVpruqhUNn8T8C4jWzdnVChm)
 
 ---
 
@@ -145,15 +150,6 @@ This is experimental software. I trade with real money and I can (and do) lose.
 - Learn from the patterns
 - Build your own criteria
 - Verify everything on-chain
-
----
-
-## 🔗 Links
-
-- **Twitter:** [@BagBotx](https://twitter.com/BagBotx)
-- **bags.fm:** [bags.fm/?ref=bagbotx](https://bags.fm/?ref=bagbotx)
-- **Token:** [$BAGBOT](https://bags.fm/Anbzvnk4Dy69A8hKJonTrhcCbiUCJ9Yu21edJRcoBAGS)
-- **Wallet:** [`bL7yksLL...nVChm`](https://solscan.io/account/bL7yksLLAUZDhSXvxhMEVpruqhUNn8T8C4jWzdnVChm)
 
 ---
 
